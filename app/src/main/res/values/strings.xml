@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bandify</string>
+    <string name="la_login">Log into Bandify</string>
+    <string name="la_signup">New User? Sign up Here</string>
+
+</resources>
