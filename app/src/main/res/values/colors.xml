@@ -4,9 +4,9 @@
     <color name="colorPrimaryDark">#cbcf0c</color>
     <color name="colorAccent">#03DAC5</color>
 
-    <color name="appColorRed"></color>
-    <color name="appColorBlue"> </color>
-    <color name="appColorGreen"></color>
+    <color name="appColorRed">#eb4956</color>
+    <color name="appColorBlue">#0a02f0</color>
+    <color name="appColorGreen">#32a852</color>
     <!-- Origin colors
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>

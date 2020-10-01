@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="la_margin_top">10dp</dimen>
+    <dimen name="la_button_width">200dp</dimen>
+    <dimen name="map_wh">250dp</dimen>
+    <dimen name="mediumPadding">10dp</dimen>
+    <dimen name="post_image_hw">300dp</dimen>
+    <dimen name="ll_user_h">75dp</dimen>
+    <dimen name="ll_user_t1">18sp</dimen>
+    <dimen name="ll_reaction">30sp</dimen>
+    <dimen name="post_video_h">225dp</dimen>
+    <dimen name="profile_hw">110dp</dimen>
+    <dimen name="profile_des_h">100dp</dimen>
+    <dimen name="profile_des_w">275dp</dimen>
+    <dimen name="profile_des_ts">15sp</dimen>
+    <dimen name="profile_ms">15dp</dimen>
+    <dimen name="profile_rad">30dp</dimen>
+</resources>
